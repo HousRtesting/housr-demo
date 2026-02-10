@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Heart, X, MapPin, Home, DollarSign, Maximize, Bed, Bath, Star, Filter, MessageCircle, ChevronLeft, ChevronRight, Zap, Camera, Upload, Plus, Trash2, RotateCcw, Check, TrendingUp, Key, Building2, Users } from 'lucide-react';
+import { Heart, X, MapPin, Home, Maximize, Bed, Bath, Star, Filter, MessageCircle, ChevronLeft, ChevronRight, Zap, Camera, Trash2, RotateCcw, Check, TrendingUp, Key, Building2, Users } from 'lucide-react';
 
 // Mock real estate data
 const generateProperties = () => [
